@@ -1,8 +1,6 @@
 /*!
  * Bootstrap v5.0.2 (https://getbootstrap.com/)
- * Copyright 2011-2021 The Bootstrap Authors
- * Copyright 2011-2021 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
+ *
  */
 :root {
     --bs-blue: #63b3ed;
@@ -18,7 +16,7 @@
     --bs-gray: #6c757d;
     --bs-gray-dark: #343a40;
     --bs-body-color: #7b809a;
-    --bs-primary: #e91e63;
+    --bs-primary: #7ed957;
     --bs-secondary: #7b809a;
     --bs-success: #4CAF50;
     --bs-info: #1A73E8;
