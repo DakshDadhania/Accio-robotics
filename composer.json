@@ -1,0 +1,13 @@
+{
+    "name": "acciorobotics/admin-dashboard",
+    "description": "Accio Robotics - Admin Dashboard ",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Daksh Dadhania",
+            "email": "dakshdadhania@gmail.com"
+        }
+    ],
+    "require": {}
+}
